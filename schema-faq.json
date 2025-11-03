@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are fireworks legal in my state?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fireworks laws vary by state. You should check with your local authorities or visit our state law guide to see what is permitted in your area."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I order fireworks online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you can not order fireworks online from USFireworks.com."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of fireworks do you sell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We sell a wide variety of consumer fireworks, including aerial shells, fountains, firecrackers, sparklers, and more."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far are you from Chicago, Illinois?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We are the closest Indiana fireworks store to Chicago.  We are literally located on the border of Hammond and Chicago.  I94 to exit 68B and avoid the toll road for maximum savings. Directions to Uncle Sam's Fireworks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you sell other fireworks than those listed on your website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we typically have over 1000 different fireworks types in the store.  They include firecrackers, roman candles, artillery shells, cakes, tubes, smoke, fountains, etc. We have some of our staff and customers' favorites on the website as well as a few of our in-store specials."
+      }
+    }
+  ]
+}
