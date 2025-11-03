@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Uncle Sam's Fireworks",
+  "image": "https://lirp.cdn-website.com/e19fd523/dms3rep/multi/opt/Uncle+Sam-s+Fireworks+Logo-360w.png",
+  "url": "https://www.usfireworks.com/",
+  "telephone": "+1-219-931-5600",
+  "email": "usfireworks@usfireworks.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "14 Gostlin St",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46327",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.6270,
+    "longitude": -87.5140
+  },
+  "openingHours": "Mo-Su 09:00-21:00",
+  "sameAs": [
+    "https://www.facebook.com/usfireworks",
+    "https://twitter.com/usfireworks",
+    "https://www.youtube.com/user/usfireworks"
+  ],
+  "hasMap": "https://www.google.com/maps/place/14+Gostlin+St,+Hammond,+IN+46327"
+}
+</script>
+``
